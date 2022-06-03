@@ -1,0 +1,23 @@
+
+Paiement de facture
+- En tant qu'utilisateur, je veux acceder menu paiement facture afin de payer mes factures
+-
+
+Trouver Transaction
+- En tant qu'utilisateur, je veux acceder au menu transaction pour trouver mes transactions
+- 
+
+Transfert de fond
+- En tant qu'utilisateur, je veux acceder eu menu transfert fonds, afin de faire un transfert
+
+L’utilisateur doit accéder au site https://parabank.parasoft.com/parabank/index.htm
+L’utilisateur  doit cliquer sur “Log in” et saisir un identifiant et un mot de passe valide.
+
+Le système doit accepté les informations saisie  et donne l'accès à l’utilisateur en tant que client.
+1- L’utilisateur doit accéder au site https://parabank.parasoft.com/parabank/index.htm 
+
+2- L’utilisateur doit cliquer sur "Log in"
+
+3- L’utilisateur saisir un identifiant et un mot de passe valide.
+
+Le système doit accepté les informations saisie  et donne l'accès à l’utilisateur en tant que client. 
